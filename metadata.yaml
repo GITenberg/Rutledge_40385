@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4329
     wikipedia: http://en.wikipedia.org/wiki/Miriam_Coles_Harris
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40385#Rutledge
 gutenberg_issued: '2012-08-01'
 gutenberg_type: Text
 identifiers:
